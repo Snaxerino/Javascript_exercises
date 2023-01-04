@@ -5,3 +5,4 @@ Will contain exercises with variables, mathematical operators, if's, loops, func
 - Basic:  
     Show "Hello World" as output.  
     Ask 2 numbers and show the sum.  
+    Read 3 grades and calculate the average.  
